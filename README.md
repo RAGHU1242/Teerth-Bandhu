@@ -1,73 +1,68 @@
-# Welcome to your Lovable project
+# Nova: AI-Powered Temple & Pilgrimage Crowd Management
 
-## Project info
+## Smart India Hackathon 2022
 
-**URL**: https://lovable.dev/projects/26f91078-e4b9-42f4-8801-d97365efae74
+* **Problem Statement ID:** 25165
+* **Problem Statement Title:** Temple & Pilgrimage Crowd Management
+* **Team ID:** VJITIH-76
+* **Team Name:** Nova
+* **Theme:** Heritage & Culture
+* **PS Category:** Software
 
-## How can I edit this code?
+## About the Project
 
-There are several ways of editing your application.
+Nova is an integrated, AI-driven platform designed to transform pilgrimage site management. Our goal is to ensure safety, reduce wait times, and enhance the spiritual journey of every devotee.
 
-**Use Lovable**
+### Key Problem Areas Solved
+* **Pilgrim Experience & Guidance:** A human-centric app providing multilingual support, accessibility features, and all essential information in one place.
+* **Overcrowding & Queue Management:** We use virtual queuing to minimize physical lines and provide pilgrims with real-time wait updates for smoother movement.
+* **Safety & Emergency Response:** Our AI-powered predictions forecast crowd surges, enabling proactive resource deployment and timely emergency handling.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/26f91078-e4b9-42f4-8801-d97365efae74) and start prompting.
+### Why We're Different (Innovation)
+* **Predictive, Not Reactive:** Our AI anticipates problems before they start, preventing chaos.
+* **Unified Ecosystem:** The platform is an end-to-end solution, integrating prediction, queueing, and communication.
+* **Human-Centric Design:** We prioritize the pilgrim's experience, with features focused on inclusivity and convenience.
+* **Data-Driven Decisions:** We empower temple authorities with real-time analytics to make informed decisions.
+* **Scalable and Replicable:** Our modular platform can be easily deployed in any temple town across India.
 
-Changes made via Lovable will be committed automatically to this repo.
+## Technical Approach
 
-**Use your preferred IDE**
+### Core Solution
+Nova's core solution is built on four key pillars:
+* **AI/ML-Based Crowd Prediction:** AI forecasts visitor surges for proactive planning.
+* **Virtual Queue & Digital Darshan Pass:** Digital passes eliminate long physical lines.
+* **Pilgrim Engagement Platform:** A multilingual hub for real-time information and guidance.
+* **Resource Optimization:** The system optimizes staff and traffic flow based on real-time data.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Tech Stack & Architecture
+* **Frontend:** React, Tailwind CSS, Vite, TypeScript
+* **Backend:** Node.js, Firebase
+* **AI/ML:** Python, ML Libraries
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Feasibility and Viability
 
-Follow these steps:
+### Feasibility
+The project is technically feasible, utilizing AI/ML, cloud, and mobile platforms for reliable and quick development. Its modular nature allows for phased implementation at temples of any size, and the low cloud-based setup reduces initial investment for temple trusts.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Viability
+The market for this solution is highly viable. The religious tourism market in India was valued at $39.23 billion in FY 2024 and is projected to reach $44.19 billion by FY 2032. The project has multiple revenue streams, including subscriptions for temple trusts and premium services for pilgrims. It is also scalable to a national network.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## Team
 
-# Step 3: Install the necessary dependencies.
-npm i
+This project was developed by the "Nova" team for the Smart India Hackathon 2022.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+* Aditya
+* Jaswanth
+* Shivani
+* Kiran
+* Barnali
+* Raghavendra
 
-**Edit a file directly in GitHub**
+## Future Scope
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Nova aims to expand its capabilities with future integrations:
+* **Smart Integrations:** Adding maps, e-donations, temple e-shops, and tourism board APIs.
+* **Virtual & Augmented Guidance:** Incorporating temple maps, 360° tours, and AR-based navigation.
+* **National Rollout:** Expanding across pilgrimage circuits supported by schemes like PRASAD and Swadesh Darshan.
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/26f91078-e4b9-42f4-8801-d97365efae74) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
